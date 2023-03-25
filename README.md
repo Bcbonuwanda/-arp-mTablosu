@@ -1,2 +1,2 @@
-# -arp-mTablosu
+# Ornekler
 çarpımTablosu
